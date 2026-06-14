@@ -4,10 +4,12 @@ I'm Balbina, an engineer turned data analyst.
 
 Mechanical engineer by training, control systems engineer by day, aspiring data analyst by ambition. Somehow, it all makes sense.
 
+
+## Tools
 I have experience in Excel, Tableau, SQL, and Python. 
 
 
-## A Bit About Me 👋
+## A Bit About Me
 I'm into trail running and have competed in a 5K and a 10.5K through the woods, just 2 months apart. Finished the 10K under 100 minutes, which was my goal...working on that speed. Long-term? A 50K ultra 🏃‍♀️.
 
 <!--

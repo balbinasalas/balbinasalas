@@ -2,11 +2,14 @@
 
 I'm Balbina, an engineer turned data analyst.
 
-Mechanical engineer by training, control systems engineer by day, aspiring data analyst by ambition. Somehow, it all makes sense.
+Mechanical engineer by training, control systems engineer by day, aspiring data analyst by ambition. Somehow it all makes sense.
 
 
 ## Tools
-I have experience in Excel, Tableau, SQL, and Python. 
+- Excel
+- Tableau
+- SQL
+- Python. 
 
 
 ## A Bit About Me

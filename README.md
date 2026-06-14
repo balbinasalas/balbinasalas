@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-👩‍💻 Software Control Systems Engineer Turned Data Analyst</p>
+I'm Balbina, an engineer turned data analyst.
+
+Mechanical engineer by training, control systems engineer by day, aspiring data analyst by ambition. It all makes sense.
+
+👩‍💻 Control Systems Engineer Turned Data Analyst</p>
 💻 Excel, Tableau, SQL, Python</p>
 🌄 Hiking, Trail Running, and Traveling</p>
 📍 Greater Boston Area, MA, USA</p>

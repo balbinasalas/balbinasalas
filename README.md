@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 I'm Balbina, an engineer turned data analyst.
 

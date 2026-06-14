@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+👩‍💻 Software Control Systems Engineer Turned Data Analyst</p>
+💻 Excel, Tableau, SQL, Python</p>
+🌄 Hiking, Trail Running, and Traveling</p>
+📍 Greater Boston Area, MA, USA</p>
+
 <!--
 **balbinasalas/balbinasalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -9,7 +9,7 @@ Mechanical engineer by training, control systems engineer by day, aspiring data 
 - Excel
 - Tableau
 - SQL
-- Python. 
+- Python
 
 
 ## A Bit About Me

@@ -15,7 +15,7 @@ Fresh out of high school in Mexico, I moved to the US not speaking English and f
 
 Now I work in jet engine development spanning production software, data analysis, real-time modeling, and engine testing. I'm fired up about data science and AI, and actively looking for data-focused roles where I can go deeper in both and tackle complex engineering problems.
 
-I'm into trail running and have competed in a 5K and a 10.5K through the woods, just 2 months apart. Finished the 10K under 100 minutes, which was my goal...working on that speed. Long-term? A 50K ultra 🏃‍♀️.
+I'm into trail running and have competed in a 5K and a 10.5K through the woods, just 2 months apart. Finished the 10.5K under 100 minutes, which was my goal...working on that speed. Long-term? A 50K ultra 🏃‍♀️.
 
 <!--
 **balbinasalas/balbinasalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@ I'm Balbina, a mechanical engineer by training, control systems engineer by day,
 - Python
 
 
-## A Bit About Me
+## About Me
 Fresh out of high school in Mexico, I moved to the US not speaking English and figured it out as I went. I learned the language, earned my engineering degree, then my master's, and never stopped pushing. 
 
 Now I work in a highly cross-functional role spanning production software, data analysis, real-time modeling, and engine testing. I'm fired up about data science and AI, and actively looking for data-focused roles where I can go deeper in both and tackle complex, high-stakes problems.

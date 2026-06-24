@@ -13,6 +13,8 @@ Mechanical engineer by training, control systems engineer by day, aspiring data 
 
 
 ## A Bit About Me
+Fresh out of high school in Mexico, I moved to the US not speaking English and figured it out as I went. I learned the language, earned my engineering degree, then my master's, and never stopped pushing. Now I work across production software, data analysis, real-time modeling, and engine testing. I'm fired up about data science and AI, and actively looking for opportunities to go deeper in both to tackle complex engineering problems.
+
 I'm into trail running and have competed in a 5K and a 10.5K through the woods, just 2 months apart. Finished the 10K under 100 minutes, which was my goal...working on that speed. Long-term? A 50K ultra 🏃‍♀️.
 
 <!--

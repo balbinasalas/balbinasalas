@@ -3,7 +3,7 @@
 I'm Balbina, a mechanical engineer by training, control systems engineer by day, and all in on what data can do at scale. 
 
 
-## Tools
+## Skills
 - Excel
 - Tableau
 - SQL
